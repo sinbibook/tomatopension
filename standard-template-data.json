@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.1.0",
-    "generatedAt": "2026-11-05T10:43:50.304132909Z",
+    "version": "1.2.0",
+    "generatedAt": "2026-11-19T02:40:43.439506281Z",
     "templateType": "trip_a",
     "propertyId": "4e8c78f1-983b-42ca-bcc4-5959b2bdc217",
     "homepageId": "01a1a136-72e8-7a13-b15f-fa6984bce5cb"
@@ -22,7 +22,7 @@
     "checkin": "15:00",
     "checkout": "11:00",
     "checkInOutInfo": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 23시 00분\n※ 오후 6시 이후 입실하실 경우 펜션으로 미리 연락 부탁드립니다.",
-    "usageGuide": "- 안녕하세요~ 토마토 펜션이 신규 오픈하였습니다.주인이 직접 관리하며 운영하고 있습니다.\n- 찾아주시는 모든 분들이 편안하고 즐거운 시간 보내실 수 있도록 정성을 다하겠습니다. 토마토 펜션에서 소중한 추억 많이 만들어 가세요!\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 23시 00분\n※ 오후 6시 이후 입실하실 경우 펜션으로 미리 연락 부탁드립니다.\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 24개월 이상~8세 미만\n- 유아: 24개월 미만\n\n[추가 요금]\n- 전객실\n- 요금: 성인 1인 20,000원, 아동 1인 20,000원, 유아 무료\n(1박기준/현장결제)\n※ 24개월 미만 유아는 무료이나 최대인원에는 포함\n※ 25개월부터 성인까지 기준인원 초과 시 요금 발생\n※ 추가 인원 만큼 침구 제공(최대인원 초과 불가)\n\n[공용바베큐]\n[기본정보]\n- 이용 객실: 전객실\n- 바베큐 형태: 숯+그릴\n- 이용 요금: 그릴당 20,000원 인원제한없음(1박기준/현장결제)\n- 신청 시간: ~00:00\n※ 이용 10분 전까지 신청\n- 이용 시간: 제한없음\n- 우천 시: 이용 가능\n- 동계 시: 이용 가능\n\n[부가정보]\n※ 숯, 그릴 개인 지참 불가\n\n[개별바베큐]\n- 이용 객실: 전객실\n- 이용 장소: 객실 테라스\n- 바베큐 형태: 숯+그릴\n- 이용 요금: 그릴당 20,000원 인원제한없음(1박기준/현장결제)\n※ 신청 시간: 이용일 1일전(사전 연락 필수)\n- 이용 시간: 제한없음\n※ 셀프 이용\n※ 그릴,숯, 번개탄 2개, 석쇠 2개, 토치제공\n\n[부대시설]\n- 단체 및 독채 가능\n\n[편의 및 주변 시설]\n- 와이파이 보유\n- OTT 이용 가능\n※ 개인 계정 사용\n\n[주차장]\n- 주차장 보유 \n- 객실 당 3대까지 가능",
+    "usageGuide": "- 안녕하세요~ 토마토 펜션이 신규 오픈하였습니다.주인이 직접 관리하며 운영하고 있습니다.\n- 찾아주시는 모든 분들이 편안하고 즐거운 시간 보내실 수 있도록 정성을 다하겠습니다. 토마토 펜션에서 소중한 추억 많이 만들어 가세요!\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 23시 00분\n※ 오후 6시 이후 입실하실 경우 펜션으로 미리 연락 부탁드립니다.\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 24개월 이상~8세 미만\n- 유아: 24개월 미만\n\n[추가 요금]\n- 전객실\n- 요금: 성인 1인 20,000원, 아동 1인 20,000원, 유아 무료\n(1박기준/현장결제)\n※ 24개월 미만 유아는 무료이나 최대인원에는 포함\n※ 25개월부터 성인까지 기준인원 초과 시 요금 발생\n※ 추가 인원 만큼 침구 제공(최대인원 초과 불가)\n\n[개별바베큐]\n- 이용 객실: 전객실\n- 이용 장소: 객실 테라스\n- 바베큐 형태: 숯+그릴\n- 이용 요금: 그릴당 20,000원 인원제한없음(1박기준/현장결제)\n※ 신청 시간: 이용일 1일전(사전 연락 필수)\n- 이용 시간: 제한없음\n※ 셀프 이용\n※ 그릴,숯, 번개탄 2개, 석쇠 2개, 토치제공\n\n[부대시설]\n- 단체 및 독채 가능\n\n[편의 및 주변 시설]\n- 와이파이 보유\n- OTT 이용 가능\n※ 개인 계정 사용\n\n[주차장]\n- 주차장 보유 \n- 객실 당 3대까지 가능",
     "reservationGuide": "- 안녕하세요~ 토마토 펜션이 신규 오픈하였습니다.주인이 직접 관리하며 운영하고 있습니다.\n- 찾아주시는 모든 분들이 편안하고 즐거운 시간 보내실 수 있도록 정성을 다하겠습니다. 토마토 펜션에서 소중한 추억 많이 만들어 가세요!",
     "province": "도/시",
     "city": "시/군/구",
@@ -102,31 +102,6 @@
         ]
       },
       {
-        "id": "01a1a136-65e3-7332-8de4-6fe6b082217c",
-        "name": "공용바베큐",
-        "description": "",
-        "usageGuide": "[기본정보]\n- 이용 객실: 전객실\n- 바베큐 형태: 숯+그릴\n- 이용 요금: 그릴당 20,000원 인원제한없음(1박기준/현장결제)\n- 신청 시간: ~00:00\n※ 이용 10분 전까지 신청\n- 이용 시간: 제한없음\n- 우천 시: 이용 가능\n- 동계 시: 이용 가능\n\n[부가정보]\n※ 숯, 그릴 개인 지참 불가",
-        "displayOrder": 1,
-        "images": [
-          {
-            "id": "01a1a136-6f00-7d7c-bb8c-5e96ddc46c26",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a1a136-65e3-7332-8de4-6fe6b082217c/main/1793706060561-xadzv0v4bx.webp",
-            "sortOrder": 0,
-            "description": "",
-            "isSelected": true,
-            "blockId": null
-          },
-          {
-            "id": "01a1a136-709f-762e-8810-3f0a51e944f4",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a1a136-65e3-7332-8de4-6fe6b082217c/main/1793706060651-oi3ohmdfy2.webp",
-            "sortOrder": 1,
-            "description": "",
-            "isSelected": true,
-            "blockId": null
-          }
-        ]
-      },
-      {
         "id": "01a1a136-65e3-75f6-aad0-bf330b29c55a",
         "name": "캠핑 사이트",
         "description": "푸른 자연을 벗 삼아\n캠핑만의 여유와 낭만을 편안하게 즐겨보세요.",
@@ -152,6 +127,39 @@
           {
             "id": "01a1a136-7269-7621-ad84-dc4ebd4e5348",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a1a136-65e3-75f6-aad0-bf330b29c55a/main/1793706061938-o34bmnzlqe.webp",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
+      },
+      {
+        "id": "d694ee0a-421e-4a22-9f5d-3a6bbd80a33b",
+        "name": "부대시설",
+        "description": "",
+        "usageGuide": "- 단체 및 독채 가능",
+        "displayOrder": 3,
+        "images": [
+          {
+            "id": "01a1f1ad-512a-710c-b5d3-655fa59addde",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/d694ee0a-421e-4a22-9f5d-3a6bbd80a33b/main/1795056029524-35hxg07fu7.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a1f1ad-5187-7c12-83cc-f8dc08e37fe3",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/d694ee0a-421e-4a22-9f5d-3a6bbd80a33b/main/1795056029528-qlh6ltq4hb.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a1f1ad-514c-736d-a912-c4e421b23edb",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/d694ee0a-421e-4a22-9f5d-3a6bbd80a33b/main/1795056029522-u0v051vx4p.jpg",
             "sortOrder": 2,
             "description": "",
             "isSelected": true,
@@ -2021,7 +2029,8 @@
         }
       ],
       "footer": {
-        "ruralStayMark": null
+        "ruralStayMark": null,
+        "ruralStayMarks": [ ]
       }
     }
   }
